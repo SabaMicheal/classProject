@@ -3,9 +3,16 @@ public class First {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hi");
-        System.out.println("bay");
+
        // add method
         //if condition
+        //Fist day of Git
+        System.out.println("Change");
+        System.out.println("Change2");
+
+        System.out.println("Change");
+        System.out.println("Change3");
+
 
     }
 }
