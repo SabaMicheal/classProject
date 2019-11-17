@@ -18,7 +18,9 @@ public class RepitA {
         } else if (n.contains("a") && n.length() < 7 || n.length() > 10) {
             System.out.println("");
         } else {
-            System.out.println("Sorry");
+           //System.out.println("Sorry");
+           System.out.println("the volue of a");
+
         }
     }
 }

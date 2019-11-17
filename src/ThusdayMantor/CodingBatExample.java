@@ -22,3 +22,10 @@ public class CodingBatExample {
 
     }
 
+//int qustion how u do swap inside of int creating without creating variable
+//example
+//x=10
+//y=20
+//x=x+y;30
+//y=x-;y;10
+//x=x-y;20
