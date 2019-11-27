@@ -2,7 +2,7 @@ package Casses;
 
 public class Driver {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 //        Car car1 = new Car();
 //        car1.make = "Lexus";
 //        car1.year = 2019;
@@ -14,7 +14,7 @@ public class Driver {
 //        System.out.println(car1.mileage);
 //        car1.drive(213);
 //        System.out.println(car1.mileage);
-            BankAccount myBank = new BankAccount();
+        /*    BankAccount myBank = new BankAccount();
             myBank.holderName = "Obama";
             myBank.accountNumber = 42352;
             myBank.type = "Business";
@@ -29,4 +29,15 @@ public class Driver {
             myBank.info();
 
         }
+        }
+        }
+
+
+
+
+
+         */
+
+
     }
+}

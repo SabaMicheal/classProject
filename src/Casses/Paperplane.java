@@ -30,7 +30,7 @@ public class Paperplane {
         flag2.info();
 
         // upgrade flag1 to 255 and gold.
-        flag1.upgrated(255, "Gold");
+        flag1.upgrade(255, "Gold");
         flag1.info();
 
     }

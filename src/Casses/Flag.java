@@ -17,14 +17,15 @@ public class Flag {
         System.out.println("Flag is flapping");
 
     }
+    // Create a method called upgrade.
+    // method should accept int for size and String for material.
+    // method upgrade should reassign the current
+    // size and material with given new values
 
-    public void upgrated(int size, String materials) {
+    public void upgrade(int size, String material){
         this.size = size;
-        this.materials = materials;
-
+        this.materials = material;
     }
 }
-
-    //create a method called upgrade. method should accept int for size and
-    // String for materials,meted upgrade should reassign the current zie and material with given new values
-//Note;to be daynamic upgrade the key word will be add "This."
+//Note;- if you know its an obeject or not
+//if(f2.country == null)
