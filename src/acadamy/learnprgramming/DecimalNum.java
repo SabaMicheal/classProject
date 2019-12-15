@@ -13,7 +13,8 @@ public class DecimalNum {
 
        double difference = result1 - result2;
        System.out.printf("The difference is %.99f %n" ,difference);
-       boolean checkResult = result1 - result2 == 0;
+
+       boolean checkResult = result1 - result2 == 0;//boolean expration
 //        BigDecimal oneTenth = BigDecimal.valueOf(0.1);
 //
 //        BigDecimal result1 = oneTenth.multiply(BigDecimal.valueOf(7));

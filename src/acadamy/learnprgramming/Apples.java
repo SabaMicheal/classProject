@@ -22,7 +22,8 @@ public class Apples {
         System.out.println("f is " + f);
         System.out.println("d is " + d);
 
-        BigDecimal Z = new BigDecimal("123.45678901234567890123456789012345678");
+        BigDecimal z = new BigDecimal("123.45678901234567890123456789012345678");
+        System.out.printf("z is %.99f %n" ,z);
 
     }
 }
